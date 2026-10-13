@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/loan-eligibility-system/backend/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/loan-eligibility-system/backend"
+  ],
+  "python.analysis.diagnosticMode": "workspace"
+}
